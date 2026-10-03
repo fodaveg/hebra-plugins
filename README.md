@@ -17,7 +17,7 @@ Ajustes › Plugins.
       "author": "Nombre",
       "repo": "owner/repo",
       "icon": "puzzle",
-      "platforms": ["macos", "ios", "linux", "windows", "web"],
+      "platforms": ["macos", "ios", "linux", "windows", "android", "web"],
       "ageRating": "4+",
       "homepage": "https://…",
       "issues": "https://github.com/owner/repo/issues"
@@ -29,6 +29,7 @@ Ajustes › Plugins.
 - Sin versiones ni hashes: la versión sale de la release más reciente del `repo` que traiga
   `hebra.json`, `hebra-main.mjs` y, si hace falta, `hebra-styles.css`.
 - `icon` es un nombre de icono Lucide.
+- `id`: minúsculas, números y guiones, de 2 a 64 caracteres. `platforms`: al menos una de las seis del ejemplo.
 - El `id` tiene que coincidir con el de `hebra.json` del plugin.
 
 ## Alta
