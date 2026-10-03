@@ -1,4 +1,17 @@
 {
   "schema": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "id": "jdex-manager",
+      "name": "JDex Manager",
+      "description": "La ruta de una nota en tu sistema Johnny.Decimal, su auditoría y la bandeja de entrada.",
+      "author": "fodaveg",
+      "repo": "fodaveg/jdex-manager",
+      "icon": "folder-tree",
+      "platforms": ["macos", "ios", "linux", "windows", "web"],
+      "ageRating": "4+",
+      "homepage": "https://github.com/fodaveg/jdex-manager",
+      "issues": "https://github.com/fodaveg/jdex-manager/issues"
+    }
+  ]
 }
