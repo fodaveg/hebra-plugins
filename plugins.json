@@ -12,6 +12,18 @@
       "ageRating": "4+",
       "homepage": "https://github.com/fodaveg/jdex-manager",
       "issues": "https://github.com/fodaveg/jdex-manager/issues"
+    },
+    {
+      "id": "tyrian-companion",
+      "name": "Tyrian Companion",
+      "description": "El compañero de Guild Wars 2: sesiones, inventario y precios, dentro de Hebra.",
+      "author": "fodaveg",
+      "repo": "fodaveg/tyrian-companion",
+      "icon": "sword",
+      "platforms": ["macos", "ios", "linux", "windows"],
+      "ageRating": "4+",
+      "homepage": "https://github.com/fodaveg/tyrian-companion",
+      "issues": "https://github.com/fodaveg/tyrian-companion/issues"
     }
   ]
 }
