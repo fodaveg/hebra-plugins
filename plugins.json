@@ -20,7 +20,7 @@
       "author": "fodaveg",
       "repo": "fodaveg/tyrian-companion",
       "icon": "sword",
-      "platforms": ["macos", "ios", "linux", "windows"],
+      "platforms": ["macos", "ios", "linux", "windows", "web"],
       "ageRating": "4+",
       "homepage": "https://github.com/fodaveg/tyrian-companion",
       "issues": "https://github.com/fodaveg/tyrian-companion/issues"
