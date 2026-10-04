@@ -19,7 +19,7 @@
       "description": "El compañero de Guild Wars 2: sesiones, inventario y precios, dentro de Hebra.",
       "author": "fodaveg",
       "repo": "fodaveg/tyrian-companion",
-      "icon": "sword",
+      "icon": "compass",
       "platforms": ["macos", "ios", "linux", "windows", "web"],
       "ageRating": "4+",
       "homepage": "https://github.com/fodaveg/tyrian-companion",
