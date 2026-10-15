@@ -11,7 +11,8 @@
       "platforms": ["macos", "ios", "linux", "windows", "web"],
       "ageRating": "4+",
       "homepage": "https://github.com/fodaveg/jdex-manager",
-      "issues": "https://github.com/fodaveg/jdex-manager/issues"
+      "issues": "https://github.com/fodaveg/jdex-manager/issues",
+      "signingKey": "RWQMjms09ErtpdgxKmb5BYsHr2SKSTK5tfzCgxm6c/Epxv/WIPPcYPwq"
     },
     {
       "id": "tyrian-companion",
@@ -23,7 +24,8 @@
       "platforms": ["macos", "ios", "linux", "windows", "web"],
       "ageRating": "4+",
       "homepage": "https://github.com/fodaveg/tyrian-companion",
-      "issues": "https://github.com/fodaveg/tyrian-companion/issues"
+      "issues": "https://github.com/fodaveg/tyrian-companion/issues",
+      "signingKey": "RWSC5t4+eQ6BKcGx1Gfl1uaTTjE8lvKBtMCtBru+elkekDS5nT+tJco0"
     }
   ]
 }
