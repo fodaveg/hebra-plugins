@@ -26,6 +26,19 @@
       "homepage": "https://github.com/fodaveg/tyrian-companion",
       "issues": "https://github.com/fodaveg/tyrian-companion/issues",
       "signingKey": "RWSC5t4+eQ6BKcGx1Gfl1uaTTjE8lvKBtMCtBru+elkekDS5nT+tJco0"
+    },
+    {
+      "id": "hebra-mantenimiento",
+      "name": "Mantenimiento",
+      "description": "Busca enlaces rotos, notas sin descripción, carpetas duplicadas y notas a las que nada enlaza, y propone arreglos con vista previa.",
+      "author": "fodaveg",
+      "repo": "fodaveg/hebra-mantenimiento",
+      "icon": "circle-check",
+      "platforms": ["macos", "ios", "linux", "windows", "web"],
+      "ageRating": "4+",
+      "homepage": "https://github.com/fodaveg/hebra-mantenimiento",
+      "issues": "https://github.com/fodaveg/hebra-mantenimiento/issues",
+      "signingKey": "RWRBYHMCiJMoGjqUSa6JHPzM9b7n4RxpTKII/EYu/mEnc/O3qxWIWOes"
     }
   ]
 }
